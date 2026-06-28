@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5e0001/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太平經鈔
+  edition:
+    short: krp
+  date: '2015-08-29 02:05:55.846396'
+  source:
+    repository: kanripo
+    path: KR5e0001/KR5e0001_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:d8d3baa1cf22d002aba61c383c4a038fce2612361ee183f71a5ddc96f2b999ab

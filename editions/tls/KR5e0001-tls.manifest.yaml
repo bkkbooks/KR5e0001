@@ -1,0 +1,1826 @@
+canonical_identifier: bkk:krp/KR5e0001/tls/v1
+canonical_location: https://kanripo.org/bkk/KR5e0001/tls/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太平經
+  identifiers:
+    krp: KR5e0001
+  tags:
+    kr-categories: KR5e
+    tls-internal:
+    - core
+    - swl
+    - tr-en
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR5e0001.xml
+  edition:
+    short: tls
+assets:
+  parts:
+  - {seq: 1, filename: KR5e0001_001-tls.yaml, hash: 'sha256:d0148dc70a109c9fb168199974e88d08a3291ba5f3d1dfafa7240128d470d534'}
+  - {seq: 2, filename: KR5e0001_002-tls.yaml, hash: 'sha256:5e47a5c0bf0bb221a6067b32ec1e841b7748405f259cf9bff163319b9db00301'}
+  - {seq: 3, filename: KR5e0001_003-tls.yaml, hash: 'sha256:44eaa152b9e432eea09fc42d0916ca0721685760f7819a85e41028d5a2f91184'}
+  - {seq: 4, filename: KR5e0001_004-tls.yaml, hash: 'sha256:c39b2d84e006b5ea2baa1f47fa364e477da19eab46b5924ca9b815d40220d452'}
+  - {seq: 5, filename: KR5e0001_005-tls.yaml, hash: 'sha256:c9890d4de34dfa5c240c2426e0be4f6a2b0325a54aa1813096c487e3fdd8e67d'}
+  - {seq: 6, filename: KR5e0001_006-tls.yaml, hash: 'sha256:c6dfe4a5f7078e69bfbd97def6afc850a650fa7ea558ec654035c637f55801e2'}
+  - {seq: 7, filename: KR5e0001_007-tls.yaml, hash: 'sha256:1874ee6105ef8fcf85f937dfb60cfa1d80506fb0071de84529c04771a9e110cf'}
+  - {seq: 8, filename: KR5e0001_008-tls.yaml, hash: 'sha256:196393f24e40fe1adc1cbcab6dcff0cb17684e9c264c9809905fa6731ef97233'}
+  - {seq: 9, filename: KR5e0001_009-tls.yaml, hash: 'sha256:93db0e20b4cbc0a67e4375b9d40963cf796b077e28e43d2ce58482187dce56a6'}
+  - {seq: 10, filename: KR5e0001_010-tls.yaml, hash: 'sha256:b3fa987568ab7a3fb96f16d5d7ecda87b0eacef466100c3869f8073eb0085507'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5e0001_001-tls.markers.yaml, hash: 'sha256:7ada2b482a37c178f14d06a2649206917e4492924c0a4c588e4cf2af135f2107'}
+  - {seq: 2, role: markers, filename: assets/KR5e0001_002-tls.markers.yaml, hash: 'sha256:00bec1f1d5d29853038cd286ea56421b94b30e8ee2c231fc4634cb218fb21c26'}
+  - {seq: 3, role: markers, filename: assets/KR5e0001_003-tls.markers.yaml, hash: 'sha256:25a540bee3340e14781abbe20267808f18dbd28bbc713016edfbde2d429b5c8f'}
+  - {seq: 4, role: markers, filename: assets/KR5e0001_004-tls.markers.yaml, hash: 'sha256:83e87ee6b7dc6d60f393dcb408c49a320946bba3881624adb9f39544757ca081'}
+  - {seq: 5, role: markers, filename: assets/KR5e0001_005-tls.markers.yaml, hash: 'sha256:2947994ad6aa84c639dcb608aa5a9669d451f187bf973b1938bc8db2e2074569'}
+  - {seq: 6, role: markers, filename: assets/KR5e0001_006-tls.markers.yaml, hash: 'sha256:d24b30eea9f65256686cc061e5ff78af4569d6f7083bca95a6ee6f91f9b9c11d'}
+  - {seq: 7, role: markers, filename: assets/KR5e0001_007-tls.markers.yaml, hash: 'sha256:89a0b08d64330da126dff005efc616a71bf12d13e152befecfcf1726a88e0a2b'}
+  - {seq: 8, role: markers, filename: assets/KR5e0001_008-tls.markers.yaml, hash: 'sha256:73b6d569a52379e658d2303bdad9bae998af9fffb899b58620b9ba1a3654bdef'}
+  - {seq: 9, role: markers, filename: assets/KR5e0001_009-tls.markers.yaml, hash: 'sha256:f0aa6909cd665855885a21a3cb927ee622a73ed0552c048390c33ed0b227c6be'}
+  - {seq: 10, role: markers, filename: assets/KR5e0001_010-tls.markers.yaml, hash: 'sha256:f7f479484112c658e657deef7d82c7d965e3a4739e35724e5a79b0f0321eadd8'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR5e0001_tls_001-1a.3-h
+    span:
+    - body
+    - 0
+    - 2466
+  label: 太平經鈔甲部
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5e0001_tls_001-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 太平經鈔甲部
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5e0001_tls_002-1a.3-h
+    span:
+    - body
+    - 0
+    - 1355
+  label: 太平經鈔乙部
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5e0001_tls_002-10a.1-h
+    span:
+    - body
+    - 1355
+    - 1471
+  label: 調神靈法
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5e0001_tls_002-12a.1-h
+    span:
+    - body
+    - 1471
+    - 5385
+  label: 守一明法
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_002-12a.1-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 守一明法
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-h
+    span:
+    - body
+    - 0
+    - 50278
+  label: 太平經丙部
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-2a.1-h
+    span:
+    - body
+    - 5
+    - 2726
+  label: 分別貧富法第四十一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-5a.1-h
+    span:
+    - body
+    - 2726
+    - 3345
+  label: 一男二女法第四十二
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-8a.1-h
+    span:
+    - body
+    - 3345
+    - 4274
+  label: 興善止惡法第四十三
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-11a.1-h
+    span:
+    - body
+    - 4274
+    - 5378
+  label: 守三實法第四十四
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-15a.1-h
+    span:
+    - body
+    - 5378
+    - 6189
+  label: 三急吉凶法第四十五
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-18a.1-h
+    span:
+    - body
+    - 6189
+    - 7692
+  label: 事死不得過生法第四十六
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-23a.1-h
+    span:
+    - body
+    - 7692
+    - 8553
+  label: 試文書大信法第四十七
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-26a.1-h
+    span:
+    - body
+    - 8553
+    - 9981
+  label: 五事解承負法第四十八
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-29a.3-h
+    span:
+    - body
+    - 9981
+    - 10077
+  label: 師策文師曰
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-29a.17-h
+    span:
+    - body
+    - 10077
+    - 12121
+  label: 解師策書訣第五十真人稽首再拜
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-29a.416-h
+    span:
+    - body
+    - 12121
+    - 12326
+  label: 真券訣第五十一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-29a.457-h
+    span:
+    - body
+    - 12326
+    - 13171
+  label: 努力為善法第五十二
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-29a.610-h
+    span:
+    - body
+    - 13171
+    - 14230
+  label: 分解本末法第五十三
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-29a.811-h
+    span:
+    - body
+    - 14230
+    - 14989
+  label: 樂生得天心法第五十四
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-29a.952-h
+    span:
+    - body
+    - 14989
+    - 16692
+  label: 件古文名書訣第五十五
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-29a.1234-h
+    span:
+    - body
+    - 16692
+    - 17736
+  label: 九天消先王災法第五十六
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-29a.1421-h
+    span:
+    - body
+    - 17736
+    - 18207
+  label: 驗道真偽訣第五十七
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-29a.1503-h
+    span:
+    - body
+    - 18207
+    - 19658
+  label: 四行本末訣第五十八
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-29a.1761-h
+    span:
+    - body
+    - 19658
+    - 21039
+  label: 大小諫正法第五十九真人稽首言
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-29a.2015-h
+    span:
+    - body
+    - 21039
+    - 23602
+  label: 案書明刑德法第六十真人純謹敬拜
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-29a.2465-h
+    span:
+    - body
+    - 23602
+    - 27679
+  label: 起土出書訣第六十一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-29a.3227-h
+    span:
+    - body
+    - 27679
+    - 28947
+  label: 道無價卻夷狄法第六十二
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-29a.3442-h
+    span:
+    - body
+    - 28947
+    - 33015
+  label: 上善臣子弟子為君父師得仙方訣第六十三
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-29a.4134-h
+    span:
+    - body
+    - 33015
+    - 34046
+  label: 服人以道不以威訣第六十四
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-29a.4301-h
+    span:
+    - body
+    - 34046
+    - 37860
+  label: 三合相通訣第六十五純謹再拜
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-29a.5004-h
+    span:
+    - body
+    - 37860
+    - 42005
+  label: 急學真法第六十六
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-29a.5729-h
+    span:
+    - body
+    - 42005
+    - 42954
+  label: 去邪文飛明古訣第六十七
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-29a.5901-h
+    span:
+    - body
+    - 42954
+    - 43351
+  label: 移行試驗類相應占訣第六十八
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-29a.5974-h
+    span:
+    - body
+    - 43351
+    - 43528
+  label: 丹明耀禦邪訣第六十九
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-29a.6002-h
+    span:
+    - body
+    - 43528
+    - 43829
+  label: 草木方訣第七十
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-29a.6056-h
+    span:
+    - body
+    - 43829
+    - 44370
+  label: 生物方訣第七十一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-29a.6147-h
+    span:
+    - body
+    - 44370
+    - 45184
+  label: 去浮華訣第七十二
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-29a.6296-h
+    span:
+    - body
+    - 45184
+    - 45892
+  label: 天文記訣第七十三
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-29a.6423-h
+    span:
+    - body
+    - 45892
+    - 46492
+  label: 灸刺訣第七十四
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-29a.6530-h
+    span:
+    - body
+    - 46492
+    - 46862
+  label: 神祝文訣第七十五
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-29a.6594-h
+    span:
+    - body
+    - 46862
+    - 47210
+  label: 葬宅訣第七十六
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR5e0001_tls_003-29a.6658-h
+    span:
+    - body
+    - 47210
+    - 48166
+  label: 諸樂古文是非訣第七十七
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5e0001_tls_003-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 太平經丙部
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5e0001_tls_004-1a.3-h
+    span:
+    - body
+    - 0
+    - 21779
+  label: 太平經丁部
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5e0001_tls_004-1a.3-h1
+    span:
+    - body
+    - 5
+    - 364
+  label: 胞胎陰陽規矩正行消惡圖
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5e0001_tls_004-1a.74-h
+    span:
+    - body
+    - 364
+    - 2409
+  label: 分別四治法第七十九
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5e0001_tls_004-1a.459-h
+    span:
+    - body
+    - 2409
+    - 4298
+  label: 使能無爭訟法第八十一
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5e0001_tls_004-1a.803-h
+    span:
+    - body
+    - 4298
+    - 4552
+  label: 力行博學訣第八十二
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5e0001_tls_004-1a.852-h
+    span:
+    - body
+    - 4552
+    - 5460
+  label: 知盛衰還年壽法第八十三
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5e0001_tls_004-1a.1041-h
+    span:
+    - body
+    - 5460
+    - 6320
+  label: 闕題
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5e0001_tls_004-1a.1228-h
+    span:
+    - body
+    - 6320
+    - 6688
+  label: 闕題
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5e0001_tls_004-1a.1298-h
+    span:
+    - body
+    - 6688
+    - 7135
+  label: 闕題
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5e0001_tls_004-1a.1376-h
+    span:
+    - body
+    - 7135
+    - 7743
+  label: 闕題
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5e0001_tls_004-1a.1491-h
+    span:
+    - body
+    - 7743
+    - 8154
+  label: 闕題
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5e0001_tls_004-1a.1579-h
+    span:
+    - body
+    - 8154
+    - 9064
+  label: 闕題
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5e0001_tls_004-1a.1773-h
+    span:
+    - body
+    - 9064
+    - 10536
+  label: 斷金兵法第九十九
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5e0001_tls_004-1a.2053-h
+    span:
+    - body
+    - 10536
+    - 11210
+  label: 王者賜下法第一百
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5e0001_tls_004-1a.2175-h
+    span:
+    - body
+    - 11210
+    - 12295
+  label: 興衰由人訣第一百一
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5e0001_tls_004-1a.2363-h
+    span:
+    - body
+    - 12295
+    - 14520
+  label: 三五優劣訣第一百二
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR5e0001_tls_004-1a.2795-h
+    span:
+    - body
+    - 14520
+    - 21061
+  label: 六罪十治訣第一百三
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5e0001_tls_004-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 太平經丁部
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR5e0001_tls_005-1a.3-h
+    span:
+    - body
+    - 0
+    - 15798
+  label: 太平經戊部
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR5e0001_tls_005-1a.1-h
+    span:
+    - body
+    - 5
+    - 4500
+  label: 天讖支干相配法第一百五
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5e0001_tls_005-20a.1-h
+    span:
+    - body
+    - 4500
+    - 5850
+  label: 學者得失訣第一百六
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5e0001_tls_005-23a.1-h
+    span:
+    - body
+    - 5850
+    - 6927
+  label: 真道九首得失文訣第一百七
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5e0001_tls_005-25a.2-h
+    span:
+    - body
+    - 6927
+    - 8694
+  label: 致善除邪令人受道戒文第一百八
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5e0001_tls_005-28a.2
+    span:
+    - body
+    - 8694
+    - 10182
+  label: 齋戒思神救死訣第一百九
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5e0001_tls_005-30a.2-h
+    span:
+    - body
+    - 10182
+    - 12001
+  label: 不用大言無效訣第一百一十
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5e0001_tls_005-32a.2
+    span:
+    - body
+    - 12001
+    - 12385
+  label: 五神所持訣第一百一十一
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5e0001_tls_005-35a.2
+    span:
+    - body
+    - 12385
+    - 12424
+  label: 闕題
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5e0001_tls_005-38a.1
+    span:
+    - body
+    - 12424
+    - 12943
+  label: 闕題
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5e0001_tls_005-39a.2
+    span:
+    - body
+    - 12943
+    - 14196
+  label: 闕題
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5e0001_tls_005-41a.2
+    span:
+    - body
+    - 14196
+    - 14726
+  label: 闕題
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5e0001_tls_005-43a.2
+    span:
+    - body
+    - 14726
+    - 14998
+  label: 闕題
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5e0001_tls_005-45a.2
+    span:
+    - body
+    - 14998
+    - 15353
+  label: 闕題
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR5e0001_tls_005-48a.2
+    span:
+    - body
+    - 15353
+    - 15457
+  label: 闕題
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_005-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 太平經戊部
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-1a.3-h
+    span:
+    - body
+    - 0
+    - 49774
+  label: 太平經己部
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-1a.3
+    span:
+    - body
+    - 5
+    - 6278
+  label: 來善集三道文書訣一百二十七
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-4a.2
+    span:
+    - body
+    - 6278
+    - 6406
+  label: 長存符圖第一百二十八
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-8a.1
+    span:
+    - body
+    - 6406
+    - 8954
+  label: 作來善宅法第一百二十九
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-11a.1
+    span:
+    - body
+    - 8954
+    - 9587
+  label: 八卦還精念文第一百三十
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-14a.1
+    span:
+    - body
+    - 9587
+    - 12228
+  label: 冤流災求奇方訣第一百三十一
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-17a.1
+    span:
+    - body
+    - 12228
+    - 17687
+  label: 拘校三古文法第一百三十二
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-21a.1
+    span:
+    - body
+    - 17687
+    - 18435
+  label: 三光蝕訣第一百三十三
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-23a.1
+    span:
+    - body
+    - 18435
+    - 21763
+  label: 萬二千國始火始氣訣第一百三十四
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-25a.1
+    span:
+    - body
+    - 21763
+    - 22144
+  label: 火氣正神道訣第一百三十五
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-27a.1
+    span:
+    - body
+    - 22144
+    - 23575
+  label: 洞極上平氣無蟲重複字訣第一百三十六
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-30a.1
+    span:
+    - body
+    - 23575
+    - 24595
+  label: 方藥厭固相治訣第一百三十七
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-33a.1
+    span:
+    - body
+    - 24595
+    - 25848
+  label: 陽尊陰卑訣第一百三十八
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-36a.1
+    span:
+    - body
+    - 25848
+    - 29280
+  label: 國不可勝數訣第一百三十九
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-39a.1
+    span:
+    - body
+    - 29280
+    - 30203
+  label: 敬事神十五年太平訣第一百四十
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-41a.1
+    span:
+    - body
+    - 30203
+    - 30735
+  label: 效言不效行致災訣第一百四十一
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-44a.1
+    span:
+    - body
+    - 30735
+    - 31016
+  label: 闕題
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-46a.1
+    span:
+    - body
+    - 31016
+    - 32617
+  label: 六極六竟孝順忠訣第一百五十一
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-47a.2
+    span:
+    - body
+    - 32617
+    - 37764
+  label: 守一入室知神戒第一百五十二
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-49a.2
+    span:
+    - body
+    - 37764
+    - 39628
+  label: 忍辱象天地至誠與神相應大戒第一百五十三
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-53a.1
+    span:
+    - body
+    - 39628
+    - 41805
+  label: 妒道不傳處士助化訣第一百五十四
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-56a.1
+    span:
+    - body
+    - 41805
+    - 42742
+  label: 事師如事父言當成法訣第一百五十五
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-60a.1
+    span:
+    - body
+    - 42742
+    - 44001
+  label: 神司人守本陰祐訣第一百五十六
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-62a.1
+    span:
+    - body
+    - 44001
+    - 45363
+  label: 為道敗成戒第一百五十七
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-65a.1
+    span:
+    - body
+    - 45363
+    - 46215
+  label: 核文壽長訣第一百五十八
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-67a.1
+    span:
+    - body
+    - 46215
+    - 46460
+  label: 男女反形訣第一百五十九
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-70a.1
+    span:
+    - body
+    - 46460
+    - 47143
+  label: 包天裹地守氣不絕訣第一百六十
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-72a.1
+    span:
+    - body
+    - 47143
+    - 47609
+  label: 署置官得失訣第一百六十一
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-75a.1
+    span:
+    - body
+    - 47609
+    - 47620
+  label: 乘雲駕龍圖第一百六十二
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-76a.1
+    span:
+    - body
+    - 47620
+    - 47904
+  label: 東壁圖第一百六十三
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-79a.1
+    span:
+    - body
+    - 47904
+    - 48208
+  label: 西壁圖第一百六十四
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-82a.1
+    span:
+    - body
+    - 48208
+    - 48986
+  label: 神人自序出書圖服色訣第一百六十五
+  type: section
+  level: 2
+- ref:
+    seq: 6
+    marker_id: KR5e0001_tls_006-85a.1
+    span:
+    - body
+    - 48986
+    - 49560
+  label: 位次傳文閉絕即病訣第一百六十六
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_006-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 太平經己部
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-1a.3-h
+    span:
+    - body
+    - 0
+    - 55474
+  label: 太平經庚部
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-2a.1
+    span:
+    - body
+    - 5
+    - 535
+  label: 虛无無為自然圖道畢成誡第一百六十八
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-9a.1
+    span:
+    - body
+    - 535
+    - 555
+  label: 興上除害複文第一百六十九
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-11a.1
+    span:
+    - body
+    - 555
+    - 576
+  label: 令尊者無憂複文第一百七十
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-13a.1
+    span:
+    - body
+    - 576
+    - 599
+  label: 德行吉昌複文第一百七十一
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-15a.1
+    span:
+    - body
+    - 599
+    - 617
+  label: 神祐複文第一百七十二
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-17a.1
+    span:
+    - body
+    - 617
+    - 1114
+  label: 要訣十九條第一百七十三
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-37a.1
+    span:
+    - body
+    - 1114
+    - 1348
+  label: 瑞議訓訣第一百七十四
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-39a.1
+    span:
+    - body
+    - 1348
+    - 1650
+  label: 忠孝上異聞訣第一百七十五
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-41a.1
+    span:
+    - body
+    - 1650
+    - 2090
+  label: 災病證書欲藏訣第一百七十六
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-44a.1
+    span:
+    - body
+    - 2090
+    - 3012
+  label: 兩手策字要記第一百七十七
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-46a.1
+    span:
+    - body
+    - 3012
+    - 3772
+  label: 四吉四凶訣第一百七十八
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-50a.1
+    span:
+    - body
+    - 3772
+    - 10454
+  label: 大功益年書出歲月戒第一百七十九
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-56a.1
+    span:
+    - body
+    - 10454
+    - 11313
+  label: 大聖上章訣第一百八十
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-58a.1
+    span:
+    - body
+    - 11313
+    - 12162
+  label: 有德人祿命訣第一百八十一
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-60a.1
+    span:
+    - body
+    - 12162
+    - 14758
+  label: 善仁人自貴年在壽曹訣第一百八十二
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-63a.1
+    span:
+    - body
+    - 14758
+    - 15721
+  label: 有知人思慕與大神相見訣第一百八十三
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-65a.1
+    span:
+    - body
+    - 15721
+    - 16727
+  label: 有心之人積行補真訣第一百八十四
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-68a.1
+    span:
+    - body
+    - 16727
+    - 17994
+  label: 貪財色災及胞中誡第一百八十五
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-70a.1
+    span:
+    - body
+    - 17994
+    - 19172
+  label: 七十二色死尸誡第一百八十六
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-72a.1
+    span:
+    - body
+    - 19172
+    - 20313
+  label: 寫書不用徒自苦誡第一百八十七
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-74a.1
+    span:
+    - body
+    - 20313
+    - 22601
+  label: 有過死謫作河梁誡第一百八十八
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-76a.1
+    span:
+    - body
+    - 22601
+    - 23081
+  label: 衣履欲好誡第一百八十九
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-78a.1
+    span:
+    - body
+    - 23081
+    - 24265
+  label: 不忘誡長得福訣第一百九十
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-81a.1
+    span:
+    - body
+    - 24265
+    - 25461
+  label: 樂怒吉凶訣第一百九十一
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-85a.1
+    span:
+    - body
+    - 25461
+    - 26709
+  label: 某訣第一百九十二
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-88a.1
+    span:
+    - body
+    - 26709
+    - 27734
+  label: 九君太上親訣第一百九十三
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-90a.1
+    span:
+    - body
+    - 27734
+    - 28823
+  label: 不孝不可久生誡第一百九十四
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-92a.1
+    span:
+    - body
+    - 28823
+    - 30289
+  label: 見誡不觸惡訣第一百九十五
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-94a.1
+    span:
+    - body
+    - 30289
+    - 31526
+  label: 不可不祠訣第一百九十六
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-97a.1
+    span:
+    - body
+    - 31526
+    - 33012
+  label: 天報信成神訣第一百九十七
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-99a.1
+    span:
+    - body
+    - 33012
+    - 34204
+  label: 有功天君勑進訣第一百九十八
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-101a.1
+    span:
+    - body
+    - 34204
+    - 35272
+  label: 不用書言命不全訣第一百九十九
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-103a.1
+    span:
+    - body
+    - 35272
+    - 36692
+  label: 大壽誡第二百
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-105a.1
+    span:
+    - body
+    - 36692
+    - 37704
+  label: 病歸天有費訣第二百一
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-107a.1
+    span:
+    - body
+    - 37704
+    - 39003
+  label: 不承天書言病當解謫誡第二百二
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-109a.1
+    span:
+    - body
+    - 39003
+    - 40005
+  label: 為父母不易訣第二百三
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-112a.1
+    span:
+    - body
+    - 40005
+    - 45460
+  label: 某訣第二百四
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-126a.1
+    span:
+    - body
+    - 45460
+    - 46038
+  label: 天樂得善人文付火君訣第二百七
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-128a.1
+    span:
+    - body
+    - 46038
+    - 50682
+  label: 天咎四人辱道誡第二百八
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-131a.1
+    span:
+    - body
+    - 50682
+    - 51287
+  label: 禁燒山林訣第二百九
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-133a.1
+    span:
+    - body
+    - 51287
+    - 51635
+  label: 燒下田草訣第二百一十
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-135a.1
+    span:
+    - body
+    - 51635
+    - 52308
+  label: 天神考過拘校三合訣第二百一十一
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR5e0001_tls_007-138a.1
+    span:
+    - body
+    - 52308
+    - 54187
+  label: 三者為一家陽火數五訣第二百一十二
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR5e0001_tls_007-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 太平經庚部
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR5e0001_tls_008-1a.3-h
+    span:
+    - body
+    - 0
+    - 6291
+  label: 太平經鈔辛部
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR5e0001_tls_008-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 太平經鈔辛部
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR5e0001_tls_009-1a.3-h
+    span:
+    - body
+    - 0
+    - 6248
+  label: 太平經鈔壬部
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR5e0001_tls_009-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 太平經鈔壬部
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR5e0001_tls_010-1a.3-h
+    span:
+    - body
+    - 0
+    - 4288
+  label: 太平經鈔癸部
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR5e0001_tls_010-3a.1
+    span:
+    - body
+    - 117
+    - 742
+  label: 神人真人聖人賢人自占可行是與非法
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5e0001_tls_010-7a.1
+    span:
+    - body
+    - 742
+    - 1216
+  label: 以自防卻不祥法
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5e0001_tls_010-9a.1
+    span:
+    - body
+    - 1216
+    - 1690
+  label: 盛身卻災法
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5e0001_tls_010-11a.1
+    span:
+    - body
+    - 1690
+    - 1882
+  label: 分別形容邪自消清身行法
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5e0001_tls_010-13a.1
+    span:
+    - body
+    - 1882
+    - 1969
+  label: 通神度世厄法
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5e0001_tls_010-15a.1
+    span:
+    - body
+    - 1969
+    - 2248
+  label: 賢不肖自知法
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5e0001_tls_010-17a.1
+    span:
+    - body
+    - 2248
+    - 2477
+  label: 利尊上延命法
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5e0001_tls_010-19a.1
+    span:
+    - body
+    - 2477
+    - 2692
+  label: 王者無憂法
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5e0001_tls_010-21a.1
+    span:
+    - body
+    - 2692
+    - 2997
+  label: 還神邪自消法
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5e0001_tls_010-23a.1
+    span:
+    - body
+    - 2997
+    - 3106
+  label: 和合陰陽
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5e0001_tls_010-25a.1
+    span:
+    - body
+    - 3106
+    - 3280
+  label: 令人壽治平法
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5e0001_tls_010-27a.1
+    span:
+    - body
+    - 3280
+    - 3583
+  label: 七事解迷法
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5e0001_tls_010-29a.1
+    span:
+    - body
+    - 3583
+    - 3830
+  label: 救四知優劣法
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5e0001_tls_010-31a.1
+    span:
+    - body
+    - 3830
+    - 4090
+  label: 是神去留效道法
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR5e0001_tls_010-33a.1
+    span:
+    - body
+    - 4090
+    - 4288
+  label: 救迷轉帝王法
+  type: section
+  level: 2
+hash: sha256:171efb1930b7e9369455ec2119dbf673668fcc28580c0d81ec8b97cd8be0123c
